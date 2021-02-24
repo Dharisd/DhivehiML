@@ -28,7 +28,7 @@ The goal of this repo is to curate resources related to  Machine Learning and la
 
 #### Text to Speech
 Tacotron2 trained on Commonvoice data upto about 300k
-***insert demo***
+[demo](https://github.com/Dharisd/DhivehiML/blob/main/demo/tts/tactoron2/griffinlim/maabageechaa.wav)
 
 - Synthesis audio from Tacotron2 (griffin Lim) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb)
 
@@ -64,5 +64,5 @@ No work has been done in this area in a way that benefits the publlic
 - [opendatamv](https://github.com/opendatamv): Effort to collect various types data by the Open Source community  
 
 ### Tasks For Evaluation
-
+*needs to decided and created* 
 
