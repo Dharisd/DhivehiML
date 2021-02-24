@@ -9,7 +9,7 @@
 </p>
 </h1>
 <h2 align="center">
-<p>Curating organizing Dhivehi ML projects and experiments</p>
+<p>Curating and organizing Dhivehi ML projects and experiments</p>
 </h2>
 
 <p align="center">
