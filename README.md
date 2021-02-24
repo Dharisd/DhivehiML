@@ -16,9 +16,9 @@
 The goal of this repo is to curate resources related to  Machine Learning and language tools in general aimed for dhivehi, as such any new comer can easily get to an understanding about the current state and use the prebuiilt tools :smile:
 </p>
 
-## Current State
+# Current State
 
-#### Language models
+### Language models
 
   [@mapmeid](https://twitter.com/mapmeld) has done some amazing work training and fine tuning langauge models for dhivehi
 
@@ -26,7 +26,7 @@ The goal of this repo is to curate resources related to  Machine Learning and la
 - [dv-muril](https://huggingface.co/monsoon-nlp/dv-muril):Experiment in inserting equivelent dhivehi words to muril
 - [dv-labse](https://huggingface.co/monsoon-nlp/dv-labse): Inserting dhivehi wordpeice tokens to Google's LaBSE models
 
-#### Text to Speech
+### Text to Speech
 Tacotron2 trained on Commonvoice data upto about 300k
 [demo](https://github.com/Dharisd/DhivehiML/blob/main/demo/tts/tactoron2/griffinlim/maabageechaa.wav)
 
@@ -34,10 +34,10 @@ Tacotron2 trained on Commonvoice data upto about 300k
 
 Current best model: [Tacotron2 ~300k](https://drive.google.com/drive/folders/18dc75nAVLLI5-Re7yC_7jA4L8aFIIUS3)
 
-#### Speech to Text
+### Speech to Text
 No work has been done in this area in a way that benefits the publlic
 
-## Notebooks
+# Notebooks
 
 ### Text to speech experiments
 - Training Mozilla's tacotron2 implementation with data from Mozilla common voice (griffin Lim) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EMYrjmENBAj9MnNvTrYXL5gQCFld0mJM)
